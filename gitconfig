@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = yuki.laurentiu@gmail.com
+	name = yukiko laurentiu
